@@ -1,0 +1,11 @@
+#external_styling {
+    background-color: red;
+    color: white;
+
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
